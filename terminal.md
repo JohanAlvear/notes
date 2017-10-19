@@ -16,3 +16,8 @@ Redirección de copia.
 
 ##Metacaracteres
 
+~: Mi directorio HOME
+.: Directorio actual
+..: Ell directorio de arriba
+
+
