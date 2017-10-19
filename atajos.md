@@ -1,10 +1,10 @@
-#ATAJOS EN GNU/LINUX - GNOME
+# ATAJOS EN GNU/LINUX - GNOME
 
 _En notación de Backus-Naur_
 
 ![Icono GDM](./images/sgdm.png Viva Gnome 3 Shell)
 
-##GNOME (3 Shell)
+## GNOME (3 Shell)
 
 - M : Panel lateral
 - C-q: Quitar un programa.
@@ -17,7 +17,7 @@ _En notación de Backus-Naur_
 
 F11: Poner a pantalla completa.
 
-##TEXTO
+## TEXTO
 
 - C-+: Ampliar la fuente
 - C--: Reducir la fuente
