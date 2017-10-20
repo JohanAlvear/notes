@@ -19,6 +19,9 @@ rm: remove. Quitar un archivo.
 
 rm -rf (**r**ecursivo **f**orce)
 
+mv: Cambia el nombre o mueve de sitio un archivo
+
+cp: Copia un archivo
 
 
 
@@ -48,3 +51,11 @@ cut: Corta Vertical => cut -d" " -f 1
 split: divide horizontal
 
 ## Comandos que filtran
+
+
+## Otras
+tr: Translate
+   -s squeeze
+uniq -c: Deja filas únicas -c: cuenta
+sort: orderna. -n Numérico
+wget: Descarga de Internet

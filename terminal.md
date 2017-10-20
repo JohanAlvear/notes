@@ -21,3 +21,5 @@ Redirección de copia.
 ..: Ell directorio de arriba
 
 
+-- (A veces el fichero que representa a la terminal)
+
