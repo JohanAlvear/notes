@@ -23,6 +23,7 @@ mv: Cambia el nombre o mueve de sitio un archivo
 
 cp: Copia un archivo
 
+touch: Crea un fichero o lo actualiza
 
 
 git: 
@@ -50,7 +51,13 @@ head
 cut: Corta Vertical => cut -d" " -f 1
 split: divide horizontal
 
-## Comandos que filtran
+## Comandos que trabajan con texto
+
+grep: filtra
+ed: Editor sin ventanas
+sed: Lo mismo.
+vi: (mejorado)
+
 
 
 ## Otras
@@ -59,3 +66,19 @@ tr: Translate
 uniq -c: Deja filas únicas -c: cuenta
 sort: orderna. -n Numérico
 wget: Descarga de Internet
+bc: calculadora básica
+cal: calendario
+xargs: Ejecuta con argumentos
+rsync: Hace copias de seguridad (varios equipos)
+mysqldump: volcado de la base de datos
+date: Muestra la fecha (backup rotativos)
+history: Muestra el historial
+fg <n>: Trae un proceso a primer plano.
+jobs: Lista todos los procesos detenidos
+ps aux: Vemos los procesos
+kill <pid>: Matamos el proceso
+kill -9 <pid>: Matar por la fuerza.
+
+## Para buscar
+find: Busca ficheros
+which: Dónde está un programa
